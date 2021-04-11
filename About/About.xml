@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Save Our Ship 2 - Space Gear</name>
+  <packageId>Mlie.SOS2SpaceGear</packageId>
+  <author>Antharann Fireblade</author>
+  <url>https://github.com/emipa606/SOS2SpaceGear</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>kentington.saveourship2</packageId>
+      <displayName>Save Our Ship 2</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1909914131</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>kentington.saveourship2</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Rework of Antharann Fireblades mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1782693188
+with permission
+
+- Reworked the mod as an addon for SOS2
+
+Mod contents
+[list]
+[*] Civilian space undersuit
+[*] Military space undersuit
+[*] Light EVA gear
+[*] Light EVA helmet
+[*] Anti grain charge rifle
+[/list]
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/SOS2SpaceGear][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+Small mod that adds in gear for a (potential) future update of the "Save our Ship" mod, mainly gear for space work 
+(only gear, functionality for the mod will be added later when the main mod gets released by the actual devs)
+
+V1.0.0
+-Adds Space undersuit, a spacer age skintight body suit that insulates well aswell as protect against thermal damage.
+-Adds in light EVA Gear, light armor that boosts movement speed but does not allow you to wear gear over it, expensiv. (kinda useless atm)
+-Adds in light Space helmets, okish protection for the head, expensiv. (also kinda useless atm)
+
+
+Credits to @sma342#9694,aka Me from the rimworld discord for the amazing preview pic he made.
+
+Save our Ship Mod:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1541262111
+(not necessary, works without it but it will act as an addon to it, the version where you can go into space is available on GitHub)
+The SOS Discord (Link broken atm): https://discord.gg/pphEjQQ
+The Highly unstable Dev Version of SOS: https://github.com/pikrecovery/save-our-ship/tree/benwan
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+
