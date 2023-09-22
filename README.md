@@ -1,6 +1,6 @@
 # SOS2SpaceGear
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/iCj5o7O.png)
 
 Rework of Antharann Fireblades mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1782693188
@@ -18,22 +18,9 @@ Mod contents
 -  Anti grain charge rifle
 
 
-
-![Image](https://i.imgur.com/7Gzt3Rg.png)
-
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/SOS2SpaceGear]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
-
-Small mod that adds in gear for a (potential) future update of the &quot;Save our Ship&quot; mod, mainly gear for space work 
+**Original description**
+Small mod that adds in gear for a (potential) future update of the "Save our Ship" mod, mainly gear for space work 
 (only gear, functionality for the mod will be added later when the main mod gets released by the actual devs)
 
 V1.0.0
@@ -48,7 +35,14 @@ Credits to @sma342#9694,aka Me from the rimworld discord for the amazing preview
 https://steamcommunity.com/sharedfiles/filedetails/?id=1541262111[/strike]
 Now uses https://steamcommunity.com/workshop/filedetails/?id=1909914131]SOS2
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/Ds0rBAD.png)
+
+Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my https://store.steampowered.com/wishlist/id/Mlie]Wishlist or buy me a cup of tea.
+
+https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/VWG0yff.png)
+
+
+![Image](https://i.imgur.com/5xwDG6H.png)
 
 
 
@@ -60,4 +54,6 @@ Now uses https://steamcommunity.com/workshop/filedetails/?id=1909914131]SOS2
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2454391139]![Image](https://img.shields.io/github/v/release/emipa606/SOS2SpaceGear?label=latest%20version&style=plastic&labelColor=0070cd&color=white)
 
