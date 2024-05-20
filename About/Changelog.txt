@@ -1,5 +1,8 @@
 # Changelog for SOS2SpaceGear
 
+1.5.0 - Mod updated for 1.5 and passed autotests
+
+
 1.4.1 - Updated for 1.4, verified against the experimental version on [url=https://github.com/SonicTHI/SaveOurShip2Experimental]Github[/url]
 
 
