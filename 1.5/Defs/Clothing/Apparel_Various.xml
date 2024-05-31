@@ -163,6 +163,8 @@
       <ArmorRating_Heat>0.27</ArmorRating_Heat>
       <Insulation_Cold>20</Insulation_Cold>
       <EquipDelay>5</EquipDelay>
+      <DecompressionResistance>0.75</DecompressionResistance>
+      <VacuumSpeedMultiplier>5</VacuumSpeedMultiplier>
     </statBases>
     <equippedStatOffsets>
       <MoveSpeed>0.5</MoveSpeed>
@@ -204,6 +206,11 @@
         </li>
       </options>
     </colorGenerator>
+    <comps>
+      <li>
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
   </ThingDef>
   <ThingDef ParentName="ArmorHelmetMakeableBase">
     <defName>Apparel_Light_Spacehelmet_SOS</defName>
@@ -259,5 +266,10 @@
         <li>Soldier</li>
       </defaultOutfitTags>
     </apparel>
+    <comps>
+      <li>
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
   </ThingDef>
 </Defs>
