@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antigrain charge shot -->
+  <Bullet_AntigrainChargeRifle.label>antigrain charge shot</Bullet_AntigrainChargeRifle.label>
+  <!-- EN: anti grain charge rifle -->
+  <Gun_AntigrainChargeRifle.label>anti grain charge rifle</Gun_AntigrainChargeRifle.label>
+  <!-- EN: A more powerful version of the charge rifle that has been upgraded using plasteel plated, depleted uranium cored bullets supercharged with an anti grain powered reactor. It's banned on multiple glitterworlds due to the devastating effects it has on living and mechanical beings. -->
+  <Gun_AntigrainChargeRifle.description>A more powerful version of the charge rifle that has been upgraded using plasteel plated, depleted uranium cored bullets supercharged with an anti grain powered reactor. It's banned on multiple glitterworlds due to the devastating effects it has on living and mechanical beings.</Gun_AntigrainChargeRifle.description>
+  <!-- EN: stock -->
+  <Gun_AntigrainChargeRifle.tools.stock.label>stock</Gun_AntigrainChargeRifle.tools.stock.label>
+  <!-- EN: bayonette -->
+  <Gun_AntigrainChargeRifle.tools.bayonette.label>bayonette</Gun_AntigrainChargeRifle.tools.bayonette.label>
+  <!-- EN: anti grain charge rifle -->
+  <Gun_AntigrainChargeRifle.verbs.Verb_Shoot.label>anti grain charge rifle</Gun_AntigrainChargeRifle.verbs.Verb_Shoot.label>
+</LanguageData>

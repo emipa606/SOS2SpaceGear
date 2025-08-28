@@ -2,5 +2,18 @@
   "Continued": false,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 14376,
+  "CodeBaseSize": 65,
+  "LastXmlCleaning": "2025-08-28T22:28:51.0355706+02:00",
+  "SocialImageSet": true,
+  "FundingSet": true,
+  "SearchTags": [
+    " additional",
+    " gear"
+  ]
 }

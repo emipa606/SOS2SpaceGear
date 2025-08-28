@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Light EVA Gear -->
+  <Apparel_Light_ETMG_SOS.label>Light EVA Gear</Apparel_Light_ETMG_SOS.label>
+  <!-- EN: Offers some protection but its main purpose is to propel the user with the build in thrusters. -->
+  <Apparel_Light_ETMG_SOS.description>Offers some protection but its main purpose is to propel the user with the build in thrusters.</Apparel_Light_ETMG_SOS.description>
+  <!-- EN: Light EVA helmet -->
+  <Apparel_Light_Spacehelmet_SOS.label>Light EVA helmet</Apparel_Light_Spacehelmet_SOS.label>
+  <!-- EN: A helmet which protects against the vacuum of space, it doesnt offer much protection. -->
+  <Apparel_Light_Spacehelmet_SOS.description>A helmet which protects against the vacuum of space, it doesnt offer much protection.</Apparel_Light_Spacehelmet_SOS.description>
+  <!-- EN: civilian space undersuit -->
+  <Apparel_SpaceJumpsuit_SOS.label>civilian space undersuit</Apparel_SpaceJumpsuit_SOS.label>
+  <!-- EN: A tight suit that protects the body from the coldness of space. Its durable and protects against energy based attacks and extreme temperatures, but is otherwise quite unimpressive. -->
+  <Apparel_SpaceJumpsuit_SOS.description>A tight suit that protects the body from the coldness of space. Its durable and protects against energy based attacks and extreme temperatures, but is otherwise quite unimpressive.</Apparel_SpaceJumpsuit_SOS.description>
+  <!-- EN: military space undersuit -->
+  <Apparel_SpaceJumpsuitMilitary_SOS.label>military space undersuit</Apparel_SpaceJumpsuitMilitary_SOS.label>
+  <!-- EN: The military version of the standart civilian space undersuit, the Hyperweave woven into its thicker fabric increases its protection. -->
+  <Apparel_SpaceJumpsuitMilitary_SOS.description>The military version of the standart civilian space undersuit, the Hyperweave woven into its thicker fabric increases its protection.</Apparel_SpaceJumpsuitMilitary_SOS.description>
+</LanguageData>

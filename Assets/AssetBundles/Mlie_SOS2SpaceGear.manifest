@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 3638088084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa41b843a5625358cfd56424878bb174
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa41b843a5625358cfd56424878bb174
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Thin_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Male_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Hulk_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Male_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Male_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Hulk_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Female_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Hulk_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Male_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Male_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Male_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Fat_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Thin_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Fat_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Weapons/AntigrainRifle.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Fat_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightSpacehelmet/LightSpacehelmet.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Male_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Hulk_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Male_southm.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightSpacehelmet/LightSpacehelmet_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Fat_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Hulk_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Female_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Thin_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Female_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Thin_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Female_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Thin_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightSpacehelmet/LightSpacehelmet_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Hulk_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Hulk_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Weapons/AntigrainRiflem.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Female_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightSpacehelmet/LightSpacehelmet_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Thin_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Hulk_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Female_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Fat_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Female_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Male_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Fat_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Hulk_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Thin_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Thin_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Thin_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Fat_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG_Fat_south.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Male_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Female_east.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit_Female_north.png
+- Assets/Data/Mlie.SOS2SpaceGear/Textures/Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit_Fat_east.png
+Dependencies: []
