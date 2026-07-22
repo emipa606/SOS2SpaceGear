@@ -1,5 +1,8 @@
 # Changelog for SOS2SpaceGear
 
+1.6.1 - All gear should be spacer techlevel now
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 

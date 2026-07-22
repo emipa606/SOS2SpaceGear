@@ -9,6 +9,7 @@
         <Crafting>8</Crafting>
       </skillRequirements>
     </recipeMaker>
+    <techLevel>Spacer</techLevel>
     <graphicData>
       <texPath>Things/Pawn/Humanlike/Apparel/JumpsuitCivilian/Jumpsuit</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -69,6 +70,7 @@
         <Crafting>8</Crafting>
       </skillRequirements>
     </recipeMaker>
+    <techLevel>Spacer</techLevel>
     <graphicData>
       <texPath>Things/Pawn/Humanlike/Apparel/Jumpsuit/Jumpsuit</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -134,6 +136,7 @@
         <li>FabricationBench</li>
       </recipeUsers>
     </recipeMaker>
+    <techLevel>Spacer</techLevel>
     <graphicData>
       <texPath>Things/Pawn/Humanlike/Apparel/LightETMG/LightETMG</texPath>
       <graphicClass>Graphic_Single</graphicClass>
