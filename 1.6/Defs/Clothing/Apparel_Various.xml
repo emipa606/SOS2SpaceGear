@@ -237,6 +237,7 @@
       <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
       <HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
       <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.69</VacuumResistance>
+      <ToxicEnvironmentResistance>0.8</ToxicEnvironmentResistance>
     </equippedStatOffsets>
     <costList>
       <ComponentSpacer>2</ComponentSpacer>

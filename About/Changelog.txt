@@ -1,5 +1,8 @@
 # Changelog for SOS2SpaceGear
 
+1.6.2 - Added ToxicEnvironmentResistance to the light eva helmet
+
+
 1.6.1 - All gear should be spacer techlevel now
 
 
