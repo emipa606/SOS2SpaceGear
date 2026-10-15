@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ResearchTabDef[defName="ResearchTabShip"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ResearchProjectDef[defName="AntigrainT1"]</xpath>
+          <value>
+            <tab>ResearchTabShip</tab>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="Apparel_SpaceJumpsuit_SOS" or defName="Apparel_SpaceJumpsuitMilitary_SOS" or defName="Apparel_Light_ETMG_SOS" or defName="Apparel_Light_Spacehelmet_SOS"]/recipeMaker</xpath>
+          <value>
+            <researchPrerequisite>ShipSpaceSuits</researchPrerequisite>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
